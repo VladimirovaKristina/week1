@@ -1,7 +1,8 @@
 {
 "headers":{
   "/*":{
-    "X-Author": "vladimirovakristinae"
+    "X-Author": "vladimirovakristinae",
+    "Access-Control-Allow-Origin":"*"
   }
 }
 }
